@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Home Page</title>
+  </head>
+
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
